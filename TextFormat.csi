@@ -1,0 +1,16 @@
+[History]
+B0=Project1/TextFormat/DrawTheText
+B1=Project1/TextFormat
+B2=Project1/Form1/Form_Load
+B3=Project1/Form1
+B4=Project1/TextFormat/UserControl_Initialize
+B5=Project1/TextFormat/Picture1_MouseMove
+B6=Project1/TextFormat/Picture1_MouseDown
+B7=Project1/Form1/Command2_Click
+B8=Project1/TextFormat/DrawTheTextOLD
+B9=Project1/TextFormat/Fonts
+B10=Project1/TextFormat/RightMargin
+B11=Project1/TextFormat/LocateTextAtXY
+B12=Project1/TextFormat/Picture1_KeyDown
+B13=Project1/Form1/Form_Resize
+B14=Project1/Form1/TextFormat1_MouseMove
